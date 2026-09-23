@@ -1,6 +1,8 @@
 cff-version: 1.2.0
 message: "Please cite the accompanying paper and the versioned archive of this certificate."
 type: software
+repository-code: "https://github.com/kastoryano/aklt-lean-certificate"
+url: "https://github.com/kastoryano/aklt-lean-certificate"
 title: "Lean certificate for AKLT rooted Kotecky-Preiss and root-counting bounds"
 authors:
   - family-names: Kastoryano

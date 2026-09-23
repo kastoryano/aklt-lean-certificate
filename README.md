@@ -29,10 +29,11 @@ Git, and Python 3. No Python packages beyond the standard library are required.
 The `lean-toolchain` file selects the required compiler version automatically
 when Lean is installed through elan.
 
-Download or clone this repository, open a terminal in its top-level folder,
-and run:
+Clone the public repository and run the verification scripts:
 
 ```sh
+git clone https://github.com/kastoryano/aklt-lean-certificate.git
+cd aklt-lean-certificate
 ./scripts/setup.sh
 ./scripts/check.sh
 ```
