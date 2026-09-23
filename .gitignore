@@ -1,0 +1,9 @@
+.lake/
+.tools/
+audit/*.log
+audit/*.json
+*.olean
+*.ilean
+*.trace
+__pycache__/
+.DS_Store

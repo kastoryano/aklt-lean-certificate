@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying paper and the versioned archive of this certificate."
+type: software
+title: "Lean certificate for AKLT rooted Kotecky-Preiss and root-counting bounds"
+authors:
+  - family-names: Kastoryano
+    given-names: Michael J.
+    affiliation: "Department of Computer Science, University of Copenhagen, Denmark"
+    email: mika@di.ku.dk
+version: 1.0.0
+license: MIT
+abstract: >-
+  Lean formalization of the scalar rooted-heap summability estimate for
+  hexagonal AKLT path and loop polymers, including its geometric and finite
+  counting inputs. The quantum reduction and the full spectral-gap argument
+  are outside the scope of this certificate.
